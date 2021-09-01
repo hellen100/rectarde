@@ -2,7 +2,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 import Foto from '../imagens/foto1.png'
 
-function HOME(){
+function INDEX(){
 
     return (
         <>
@@ -14,7 +14,7 @@ function HOME(){
             <p>Mata a fome e deixa você triste.</p>
             <br />
             <br />
-            <Link href="https://www.google.com"><button>CLIQUE PARA COZINHAR</button></Link>
+            <Link href="home"><button>CLIQUE PARA COZINHAR</button></Link>
 
         </div>
 
@@ -26,4 +26,4 @@ function HOME(){
     )
 }
 
-export default HOME
+export default INDEX
