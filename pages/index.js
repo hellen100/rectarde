@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import Link from 'next/link'
-import Foto from '../imagens/foto1.png'
+import Foto from '../imagens/fotoabertura.png'
 
 function INDEX(){
 
