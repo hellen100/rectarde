@@ -18,28 +18,8 @@ function MENU() {
             
         </div>
         <p>
-            <ul>
-                <li>A</li>
-                <li>B</li>
-                <li>C</li>
-                <li>D</li>
-                <li>E</li>
-                <li>A</li>
-                <li>A</li>
-                <li>A</li>
-                <li>A</li>
-                <li>A</li>
-                <li>A</li>
-                <li>A</li>
-                <li>A</li>
-                <li>A</li>
-                <li>A</li>
-                <li>A</li>
-                <li>A</li>
-
-            </ul>
-            <hr></hr>
-        </p>
+           
+                   </p>
         </>
     )
 }
